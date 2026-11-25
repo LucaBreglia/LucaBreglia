@@ -10,9 +10,9 @@ Desarrollo soluciones de software a medida, sistemas de gestión (CRM/ERP) y her
 ### 🚀 Proyectos Destacados
 
 * **Cotizador Automático con IA (`cotizador-ia`):** Sistema que interpreta pedidos en lenguaje natural (estilo WhatsApp) mediante LLMs estructurados, valida stock y precios contra catálogo con *fuzzy matching* (`RapidFuzz`) y genera presupuestos listos en PDF (`WeasyPrint`). *Stack: Python, FastAPI, SQLModel, Gemini API.*
-* **Stock Predictor:** Aplicación web de forecasting que predice la demanda de insumos gastronómicos (harina, mozzarella, bebidas) utilizando modelos de regresión entrenados para optimizar compras y reducir quiebres de stock. *Stack: Python, FastAPI, scikit-learn, joblib, pandas.*
 * **Sistema de Gestión Médica (`ClinicaMedica`):** Plataforma web integral con arquitectura en 3 capas (`Entidades`, `Negocio`, `Datos`), control de acceso por roles, gestión de turnos y CRUD completo de pacientes y profesionales. *Stack: C#, ASP.NET Web Forms, SQL Server.*
-* **CRM & Gestión de Pedidos Gastronómicos:** Sistema full-stack para pizzerías y locales con autenticación JWT, panel de métricas en tiempo real, exportación de reportes CSV y flujo de despacho en cocina. *Stack: FastAPI, SQLModel, Tailwind CSS, JavaScript.*
+* **Agente Generador de Carruseles:** (Python, Gemini, Pydantic, Playwright, Tailwind CSS)
+Pipeline que genera carruseles de Instagram en JPG (1080x1350) con salidas estructuradas, historial anti-repetición y rotación de fotos
 
 ---
 
